@@ -1,0 +1,6 @@
+# frontend/apprun.yaml
+commands:
+  build:
+    - yarn install
+  run:
+    - yarn run start
